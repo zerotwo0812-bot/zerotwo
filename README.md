@@ -10,3 +10,4 @@
     <p>Here you'll find Mongolian-translated manga.</p>
 </body>
 </html>
+https://your-username.github.io/mongolian-manga-site/
